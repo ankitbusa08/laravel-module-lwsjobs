@@ -1,0 +1,11 @@
+{
+    "name": "Lwsjobs",
+    "alias": "lwsjobs",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Lwsjobs\\Providers\\LwsjobsServiceProvider"
+    ],
+    "files": []
+}
